@@ -80,13 +80,18 @@ void yyerror(char *s) {
 
 ```
 ## OUTPUT:
-#### COMMANDS:
-<img width="1205" height="504" alt="image" src="https://github.com/user-attachments/assets/5b54238e-492f-4115-b15e-ca9b8f06b6d3" />
-#### VALID EXPRESSION:
-<img width="488" height="280" alt="image" src="https://github.com/user-attachments/assets/185261aa-eb30-40ca-9316-5ffc87488ac0" />
-#### INVALID EXPRESSION:
-<img width="468" height="407" alt="image" src="https://github.com/user-attachments/assets/35495360-6c2a-4188-af38-da54b7e15656" />
 
+#### COMMANDS:
+
+<img width="1205" height="504" alt="image" src="https://github.com/user-attachments/assets/5b54238e-492f-4115-b15e-ca9b8f06b6d3" />
+
+#### VALID EXPRESSION:
+
+<img width="488" height="280" alt="image" src="https://github.com/user-attachments/assets/185261aa-eb30-40ca-9316-5ffc87488ac0" />
+
+#### INVALID EXPRESSION:
+
+<img width="468" height="407" alt="image" src="https://github.com/user-attachments/assets/35495360-6c2a-4188-af38-da54b7e15656" />
 
 
 ## RESULT
